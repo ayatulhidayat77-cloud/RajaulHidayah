@@ -1,0 +1,15 @@
+{
+  "name": "رَجَاءُ الْهِدَايَةِ — Raja'ul Hidayah",
+  "short_name": "Raja'ul Hidayah",
+  "description": "Aplikasi Waktu Sholat Kemenag RI, Suara Muadzin Yaman Asli, Kompas Kiblat & PDF Flipbook Reader",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#021c14",
+  "theme_color": "#042f24",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
